@@ -1,8 +1,10 @@
 # Heart-Disease (ml)
 
 This is a simple AI Machine Learning Model that can predict the liklihood of heart disease in a patient depending on a number of factors. Data used can be found in Data Directory.
-Please bear in mind this is just a very simple AI (85% accuracy) and should not substitute doctor's advice. Enjoy.
-You can refer to query.py for a sample script that can be run in python, incorporating the pre-trained model found in the models folder
+Please bear in mind this is just a very simple AI (85% accuracy) and should not substitute doctor's advice.
+You can refer to query.py for a sample script that can be run in python, incorporating the pre-trained model found in the models folder.
+Make sure to run `pip install -r requirements.txt` in a terminal beforehand!
+Enjoy!
 
 ## Factors
 age - age in years
